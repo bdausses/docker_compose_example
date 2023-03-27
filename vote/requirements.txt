@@ -4,7 +4,7 @@ Flask==1.1.1
 
 # Updates:
 #   Nov 2019: Lock version to avoid potential future versioning issues
-Redis==3.3.11
+Redis==4.5.3
 
 # Updates:
 #   Nov 2019: Lock version to avoid potential future versioning issues
