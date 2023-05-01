@@ -1,6 +1,6 @@
 # Updates:
 #   Nov 2019: Update Flask to a more recent version
-Flask==1.1.1
+Flask==2.3.2
 
 # Updates:
 #   Nov 2019: Lock version to avoid potential future versioning issues
